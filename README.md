@@ -1,6 +1,6 @@
 # knack
 
-A really really bad implementation of the Ackermann function.
+A really really bad implementation of the [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function).
 
 Playing with distributed programming in Erlang.
 
