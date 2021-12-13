@@ -15,6 +15,7 @@ $ erl -sname SOME_NAME
 > knack:join_pool().
 ```
 (The names can all be the same, as long as the machines have different hostnames.)
+
 5. On one of the nodes, run: `> knack:ack(2, 2)`
 It should return 7 fairly quickly.
 
